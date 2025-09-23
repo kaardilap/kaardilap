@@ -1,5 +1,6 @@
 ## Hi there, I'm Karina👋
-<img src="https://share.google/images/3K7IhsfTdeMM6mZt2" width="200" align="right">
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 I am a Biological Engineering student at UNAL Medellín, passionate about virology and a dedicated member of the **Molecular Microbiology research group**. I love exploring the microscopic world while combining it with computational tools like Python and GIS for biological data analysis.  
 
 ## 🧬 Academic & Research Interests
