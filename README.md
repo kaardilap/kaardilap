@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Karina👋
 
-<!--
-**kaardilap/kaardilap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Biological Engineering student at UNAL Medellín**, passionate about **virology** and a dedicated member of the **Molecular Microbiology research group**. I love exploring the microscopic world while combining it with computational tools like Python and GIS for biological data analysis.  
 
-Here are some ideas to get you started:
+## 🧬 Academic & Research Interests
+- Biological Engineering at UNAL Medellín  
+- Virology enthusiast  
+- Research member in Molecular Microbiology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎾 Personal Interests
+- Tennis and university handball team 🏐  
+- Dog lover 🐶  
+- Purple is my favorite color 💜
+  
+## 🔭 I’m currently working on ... improving my bioinformatics skills :)
+
+##📫 How to reach me: via email -> ardilak98@gmail.com
+
