@@ -1,5 +1,5 @@
 ## Hi there, I'm Karina👋
-
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://share.google/images/NHKLWTiU05hKw2ZHL)" width="200" align="right">
 I am a **Biological Engineering student at UNAL Medellín**, passionate about **virology** and a dedicated member of the **Molecular Microbiology research group**. I love exploring the microscopic world while combining it with computational tools like Python and GIS for biological data analysis.  
 
 ## 🧬 Academic & Research Interests
@@ -12,7 +12,9 @@ I am a **Biological Engineering student at UNAL Medellín**, passionate about **
 - Dog lover 🐶  
 - Purple is my favorite color 💜
   
-## 🔭 I’m currently working on ... improving my bioinformatics skills :)
+## 🔭 I’m currently working on ... 
+improving my bioinformatics skills :)
 
-##📫 How to reach me: via email -> ardilak98@gmail.com
+## 📫 How to reach me: via email -> ardilak98@gmail.com
+
 
