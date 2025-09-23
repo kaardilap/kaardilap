@@ -1,7 +1,6 @@
 ## Hi there, I'm Karina👋
 
-![Dog](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 I am a Biological Engineering student at UNAL Medellín, passionate about virology and a dedicated member of the **Molecular Microbiology research group**. I love exploring the microscopic world while combining it with computational tools like Python and GIS for biological data analysis.  
 
@@ -12,7 +11,7 @@ I am a Biological Engineering student at UNAL Medellín, passionate about virolo
 
 ## 🎾 Personal Interests
 - Tennis and university handball team 🏐  
-- Dog lover 🐶  
+- Dog lover 🐶  (couldn't find the perfect coding dog GIF for this profile)
 - Purple is my favorite color 💜
   
 ## 🔭 I’m currently working on ... 
