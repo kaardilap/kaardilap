@@ -5,6 +5,10 @@
 
 I am a Biological Engineering student at UNAL Medellín, passionate about virology and a dedicated member of the **Molecular Microbiology research group**. I love exploring the microscopic world while combining it with computational tools like Python for biological data analysis.  
 
+
+
+
+
 ## 🧬 Academic & Research Interests
 - Biological Engineering at UNAL Medellín  
 - Virology enthusiast  
